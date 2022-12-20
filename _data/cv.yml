@@ -2,96 +2,173 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Linfeng Zhang
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate
+      institution: University of Illinois at Urbana-Champaign, Illinois
+      year: now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Concentration in Actuarial Science and Risk Analytics
+    - title: MS Finance
+      institution: University of Illinois at Urbana-Champaign, Illinois
+      year: 2016
+    - title: BS Actuarial Science, Statistics
+      institution: University of Illinois at Urbana-Champaign, Illinois
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Minor in Astronomy
 
-- title: Experience
+
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Visiting Assistant Professor of Actuarial Science
+      institution: Drake University, Iowa
+      year: now
+    - title: Graduate Supervisor/Project Manager
+      institution: Illinois Risk Lab, University of Illinois, Illinois
+      year: 2019-2021
+    - title: Research Assistant
+      institution: Information Trust Institution, University of Illinois, Illinois
+      year: 2016-2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Professional Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Data Scientist
+      institution: Charlee.ai
+      year: 2019-2021
+
+- title: Grants
+  type: time_table
+  contents:
+    - title: SOA Cyber Risk Literature Search Grant
+      description: 
+        - with Wing Fung (Alfred) Chong, Runhuan Feng, and Zhiyu Quan
+      institution: Society of Actuaries
+      year: 2022
+    - title: Impact of COVID-19 Grant
+      description: 
+        - with Xiaowei Chen, Wing Fung (Alfred) Chong, and Runhuan Feng
+      institution: Canadian Institute of Actuaries
+      year: 2020
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: ARC Graduate Student Presentation Award Honorable Mention
+      description: 
+        - 2022 Actuarial Research Conference
+      institution: Society of Actuaries
+      year: 2022
+    - title: Maplesoft Best Student Paper Awards
+      institution: 'Virtual 24th International Congress on Insurance: Mathematics and Economics'
+      year: 2021
+    - title: CAS Best of 2020
+      description: 
+        - 2020 CAS Annual Meeting
+      institution: Casualty Actuarial Society
+      year: 2020
+    - title: State Farm Mathematics Doctoral Scholarship
+      institution: State Farm Insurance
+      year: 2019
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Presentations
+  type: time_table
+  contents: 
+    - title: Cyber Risk Assessment for Capital Management
+      institution: 2022 INFORMS Annual Meeting
+      description: 
+        - Indianapolis, Indiana
+      year: 2022
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: The 57th Actuarial Research Conference
+      description: 
+        - Champaign, Illinois
+      year: 2022
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: '25th International Congress on Insurance: Mathematics and Economics'
+      description: 
+        - Online
+      year: 2022
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: 2021 Casualty Loss Reserve Seminar
+      description:
+        - with Wing Fung (Alfred) Chong and Runhuan Feng 
+        - Online
+      year: 2021
+    - title: Cyber Risk Assessment for Capital Management
+      institution: 'Virtual 24th International Congress on Insurance: Mathematics and Economics'
+      description: 
+        - Online
+      year: 2021
+    - title: Cyber Risk Assessment for Capital Management
+      institution: The 56th Actuarial Research Conference
+      description: 
+        - Online
+      year: 2021
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: act21 CIA Annual Conference
+      description:
+        - with Wing Fung (Alfred) Chong and Runhuan Feng 
+        - Online
+      year: 2021
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: 2020 CAS Annual Meeting
+      description:
+        - with Wing Fung (Alfred) Chong and Runhuan Feng  
+        - Online
+      year: 2020
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: SOA Webcast
+      description: 
+        - with Wing Fung (Alfred) Chong and Runhuan Feng 
+        - Online
+      year: 2020    
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: SOA Webcast
+      description:
+        - with Wing Fung (Alfred) Chong and Runhuan Feng  
+        - Online
+      year: 2020
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: One World Actuarial Research Seminar
+      description:
+        - with Wing Fung (Alfred) Chong and Runhuan Feng  
+        - Online
+      year: 2020
+    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
+      institution: Fall 2020 Actuarial Science and Financial Mathematics Seminar
+      description:
+        - with Wing Fung (Alfred) Chong and Runhuan Feng  
+        - Champaign, Illinois
+      year: 2020 
+    - title: Cyber Risk Assessment to Empower Cyber Insurance Markets
+      institution: ISF US Chapter Spring Conference
+      description: 
+        - Chicago, Illinois
+      year: 2018
+
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
