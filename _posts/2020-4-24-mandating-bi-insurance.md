@@ -6,7 +6,7 @@ description: How can the insurance industry help business survive the COVID-19 e
 tags: COVID-19 insurance business_interruption
 categories: market_commentaries
 ---
-<p><a href="https://jaykesan.com/">Jay P. Kesan</a> and <a href="https://linfengzhang.com">Linfeng Zhang</a></p>
+<p><a href="https://jaykesan.com/">Jay P. Kesan</a> and <a href="https://www.linfengzhang.com">Linfeng Zhang</a></p>
 <p>In response to the COVID-19 outbreak, many states have issued stay-at-home orders to limit the activities of businesses, especially the ones defined as non-essential.  On top of that, many residents have voluntarily reduced their outdoor activities to avoid the risk of getting infected.  Because of those measures, many business owners are seeing a sharp decrease in the number of customers, and the continuity of their operations is at risk.
 In these circumstances, many businesses will turn to their commercial insurance providers and seek compensation based on their business interruption (BI) policy coverage for their loss of income.  Disappointingly, many commercial policies contain provisions similar to the following statement</p>
 <blockquote>

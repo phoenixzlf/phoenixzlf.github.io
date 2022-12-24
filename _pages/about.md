@@ -7,7 +7,7 @@ subtitle: >
   <p><strong>Ph.D. Candidate</strong> <br> <a href = 'https://math.illinois.edu/' target="_blank">Department of Mathematics <br> University of Illinois at Urbana-Champaign</a></p>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -20,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a visiting assistant professor of Actuarial Science at Drake University and a Mathematics Ph.D. candidate at the University of Illinois at Urbana-Champaign. 
+I am a visiting assistant professor of Actuarial Science at Drake University and a Mathematics Ph.D. candidate with the concentration in Actuarial Science and Risk Analytics at the University of Illinois at Urbana-Champaign under the supervision of <a href="https://faculty.math.illinois.edu/~rfeng/">Dr. Runhuan Feng</a> and <a href = "https://sites.google.com/view/wingfungalfredchong/home">Dr. Wing Fung (Alfred) Chong</a>.  
 
-Prior to my doctoral study, I worked as a research assistant at the Critical Infrastructure Resilience Institute (CIRI) and had three years of research experience in topics related to cyber risk and cyber insurance. During my doctoral program, I worked on several projects as a research assistant or a PI funded by the Society of Actuaries, the Fundación MAPFRE, and Cisco.
+Prior to my doctoral study, I worked as a research assistant at the Critical Infrastructure Resilience Institute and had three years of research experience in topics related to cyber risk and cyber insurance. During my doctoral program, I worked on several projects as a research assistant or a PI funded by the Society of Actuaries, the Fundación MAPFRE, and Cisco.
 
-I published peer-reviewed academic papers about a variety of aspects of cyber risk in actuarial science, engineering, and law review journals, such as Geneva Papers on Risk and Insurance: Issues and Practice, IEEE Transactions on Emerging Topics in Computing, and Connecticut Insurance Law Journal.
+I published peer-reviewed academic papers about a variety of aspects of cyber risk in actuarial science, engineering, and law review journals, such as Geneva Papers on Risk and Insurance: Issues and Practice, IEEE Transactions on Emerging Topics in Computing, and Connecticut Insurance Law Journal. I am also working on other emerging topics in the field of actuarial science and risk management, such as pandemic risk and privacy risk.
