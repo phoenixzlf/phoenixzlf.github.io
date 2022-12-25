@@ -2,9 +2,9 @@
 layout: post
 title:  Mandating Insurance Coverage for Business Interruption (BI) Claims in the COVID-19 Era
 date:   2020-04-24 16:40:16
-description: How can the insurance industry help business survive the COVID-19 era? 
+description: How can the insurance industry help businesses survive the COVID-19 era? 
 tags: COVID-19 insurance business_interruption
-categories: market_commentaries
+categories: commentaries
 ---
 <p><a href="https://jaykesan.com/">Jay P. Kesan</a> and <a href="https://www.linfengzhang.com">Linfeng Zhang</a></p>
 <p>In response to the COVID-19 outbreak, many states have issued stay-at-home orders to limit the activities of businesses, especially the ones defined as non-essential.  On top of that, many residents have voluntarily reduced their outdoor activities to avoid the risk of getting infected.  Because of those measures, many business owners are seeing a sharp decrease in the number of customers, and the continuity of their operations is at risk.
