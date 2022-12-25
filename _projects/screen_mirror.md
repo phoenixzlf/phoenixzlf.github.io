@@ -21,7 +21,7 @@ It does something like this.
     </div>
 </div>
 
-This application was originally developed for Android 7 devices, and I have no intention to update it further. Recently I tested it on my Android 10 device, and it still worked. Depending on the device and the version of Android, one issue that might be observed is that the mirrored screen is not perfectly positioned at where it should be, thus possibly causing extra margins and some part of the mirrored screen to be cut off. The positioning is off by just a bit, so this issue does not hurt the functionality much, but you are more than welcome to fix it. 
+This application was originally developed for Android 7 devices, and I have no intention to update it further. Recently (12/24/2022) I tested it on my Android 10 device, and it still worked. Depending on the device and the version of Android, one issue that might be observed is that the mirrored screen is not perfectly positioned at where it should be, thus possibly causing extra margins and some part of the mirrored screen to be cut off. The positioning is off by just a bit, so this issue does not hurt the functionality much, but you are more than welcome to fix it. 
 
 Here is the source code of this project: <a href="https://github.com/phoenixzlf/screen_mirror.git">Open GitHub Link</a>; and here is an article that discusses some technical details of this project: <a href="/blog/2017/android-screen-capture/">Open Blog Article</a>.
 
