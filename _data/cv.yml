@@ -9,9 +9,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
+    - title: PhD
       institution: University of Illinois at Urbana-Champaign, Illinois
-      year: now
+      year: 2023
       description:
         - Concentration in Actuarial Science and Risk Analytics
     - title: MS Finance
@@ -27,9 +27,12 @@
 - title: Academic Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: The Ohio State University, Ohio
+      year: now
     - title: Visiting Assistant Professor of Actuarial Science
       institution: Drake University, Iowa
-      year: now
+      year: 2022-2023
     - title: Graduate Supervisor/Project Manager
       institution: Illinois Risk Lab, University of Illinois, Illinois
       year: 2019-2021

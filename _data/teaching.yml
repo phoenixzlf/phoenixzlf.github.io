@@ -1,3 +1,10 @@
+- title: The Ohio State University
+  type: time_table
+  contents:
+    - title: Instructor
+      items: 
+        - MATH 5632 - Financial Economics for Actuaries
+      year: Fall 2023
 - title: Drake University
   type: time_table
   contents:
