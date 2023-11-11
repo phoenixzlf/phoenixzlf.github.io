@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an assistant professor of Actuarial Science at the Ohio State University. I earned my Ph.D. degree in Mathematics with the concentration in Actuarial Science and Risk Analytics at the University of Illinois at Urbana-Champaign under the supervision of <a href="https://faculty.math.illinois.edu/~rfeng/">Dr. Runhuan Feng</a> and <a href = "https://sites.google.com/view/wingfungalfredchong/home">Dr. Wing Fung (Alfred) Chong</a>. 
 
-I worked at the Drake Univerity, Iowa, as a visiting assistant professor of Actuarial Science during my last year of PhD study from Fall 2022 to Summer 2023. 
+I worked at the Drake University, Iowa, as a visiting assistant professor of Actuarial Science during my last year of PhD study from Fall 2022 to Summer 2023. 
 
 Prior to my doctoral study, I worked as a research assistant at the Critical Infrastructure Resilience Institute and had three years of research experience in topics related to cyber risk and cyber insurance. During my doctoral program, I worked on several projects as a research assistant or a PI funded by the Society of Actuaries, the Fundación MAPFRE, and Cisco.
 
