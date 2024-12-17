@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Mathematics
       institution: University of Illinois at Urbana-Champaign, Illinois
       year: 2023
       description:
@@ -50,6 +50,11 @@
 - title: Grants
   type: time_table
   contents:
+    - title: CKER Individual Grant Competition
+      description: 
+        - with Zhiyu Quan 
+      institution: Casualty Actuarial Society and Society of Actuaries
+      year: 2024
     - title: SOA Cyber Risk Literature Search Grant
       description: 
         - with Wing Fung (Alfred) Chong, Runhuan Feng, and Zhiyu Quan
@@ -80,83 +85,6 @@
     - title: State Farm Mathematics Doctoral Scholarship
       institution: State Farm Insurance
       year: 2019
-
-
-- title: Presentations
-  type: time_table
-  contents: 
-    - title: Cyber Risk Assessment for Capital Management
-      institution: 2022 INFORMS Annual Meeting
-      description: 
-        - Indianapolis, Indiana
-      year: 2022
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: The 57th Actuarial Research Conference
-      description: 
-        - Champaign, Illinois
-      year: 2022
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: '25th International Congress on Insurance: Mathematics and Economics'
-      description: 
-        - Online
-      year: 2022
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: 2021 Casualty Loss Reserve Seminar
-      description:
-        - with Wing Fung (Alfred) Chong and Runhuan Feng 
-        - Online
-      year: 2021
-    - title: Cyber Risk Assessment for Capital Management
-      institution: 'Virtual 24th International Congress on Insurance: Mathematics and Economics'
-      description: 
-        - Online
-      year: 2021
-    - title: Cyber Risk Assessment for Capital Management
-      institution: The 56th Actuarial Research Conference
-      description: 
-        - Online
-      year: 2021
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: act21 CIA Annual Conference
-      description:
-        - with Wing Fung (Alfred) Chong and Runhuan Feng 
-        - Online
-      year: 2021
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: 2020 CAS Annual Meeting
-      description:
-        - with Wing Fung (Alfred) Chong and Runhuan Feng  
-        - Online
-      year: 2020
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: SOA Webcast
-      description: 
-        - with Wing Fung (Alfred) Chong and Runhuan Feng 
-        - Online
-      year: 2020    
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: SOA Webcast
-      description:
-        - with Wing Fung (Alfred) Chong and Runhuan Feng  
-        - Online
-      year: 2020
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: One World Actuarial Research Seminar
-      description:
-        - with Wing Fung (Alfred) Chong and Runhuan Feng  
-        - Online
-      year: 2020
-    - title: 'Pandemic Risk Management: Resources Contingency Planning and Allocation'
-      institution: Fall 2020 Actuarial Science and Financial Mathematics Seminar
-      description:
-        - with Wing Fung (Alfred) Chong and Runhuan Feng  
-        - Champaign, Illinois
-      year: 2020 
-    - title: Cyber Risk Assessment to Empower Cyber Insurance Markets
-      institution: ISF US Chapter Spring Conference
-      description: 
-        - Chicago, Illinois
-      year: 2018
 
 
 # - title: Academic Interests
