@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Linfeng Zhang # the website title (if blank, full name will be used instead)
+title: Linfeng Zhang, PhD, ASA # the website title (if blank, full name will be used instead)
 first_name: Linfeng
 middle_name: 
 last_name: Zhang
-letters: Ph.D.
+letters: PhD, ASA
 email: zhang.14673@osu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is Linfeng Zhang's personal website.
