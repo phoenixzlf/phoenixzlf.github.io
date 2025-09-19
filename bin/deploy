@@ -92,6 +92,22 @@ git checkout -b $DEPLOY_BRANCH
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
 
+
+# (insert just before `bundle exec jekyll build` in bin/deploy)
+
+echo "Diagnostics: PATH=$PATH"
+if command -v node >/dev/null 2>&1; then
+  echo "Node found: $(node -v)"
+else
+  echo "Node not found on PATH. ExecJS may pick an older runtime that can't parse ES6."
+  echo "Please install Node or ensure it is on PATH for non-interactive shells."
+  # uncomment the next line to abort deploy if Node is missing:
+  # exit 1
+fi
+
+bundle exec ruby -r execjs -e 'puts "ExecJS.runtime: #{ExecJS.runtime}"' || true
+
+
 # Build site
 bundle exec jekyll build
 
