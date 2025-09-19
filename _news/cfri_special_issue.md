@@ -10,7 +10,6 @@ related_posts: false
 I am honored to serve as a Guest Editor for a forthcoming special issue of *China Finance Review International* on **Cyber Risks in the Era of AI**.  
 This special issue invites contributions that explore the intersection of artificial intelligence, cybersecurity, and finance—ranging from modeling and managing cyber risks, to the role of financial innovations, governance mechanisms, and regulatory strategies.  
 
-
 * **Submission window:** September 15, 2025 – May 31, 2026  
 * **Topics include (but are not limited to):**  
   - AI-driven cyber threats and their impact on financial stability  
